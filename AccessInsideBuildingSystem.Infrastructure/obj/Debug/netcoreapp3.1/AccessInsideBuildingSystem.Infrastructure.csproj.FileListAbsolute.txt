@@ -1,0 +1,12 @@
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\bin\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Infrastructure.deps.json
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\bin\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Infrastructure.dll
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\bin\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Infrastructure.pdb
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Infrastructure.dll
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Infrastructure.pdb
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\bin\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Core.dll
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\bin\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Core.pdb
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Infrastructure.csprojAssemblyReference.cache
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Infrastructure.csproj.CopyComplete
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Infrastructure\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Infrastructure.csproj.CoreCompileInputs.cache
