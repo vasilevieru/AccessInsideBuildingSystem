@@ -1,0 +1,8 @@
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Core\bin\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Core.deps.json
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Core\bin\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Core.dll
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Core\bin\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Core.pdb
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Core\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Core.AssemblyInfoInputs.cache
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Core\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Core.AssemblyInfo.cs
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Core\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Core\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Core.dll
+C:\Users\vasile.vieru\source\repos\AccessInsideBuildingSystem\AccessInsideBuildingSystem.Core\obj\Debug\netcoreapp3.1\AccessInsideBuildingSystem.Core.pdb
